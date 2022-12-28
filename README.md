@@ -229,7 +229,7 @@ Option to change the number of evaluation epsiodes (only applicable if --test is
 
 ## Citation
 
-Please cite:
+If you use RL-PGO in any project please cite:
 ```bash
 @article{Kourtzanidis2022RLPGORL,
 
