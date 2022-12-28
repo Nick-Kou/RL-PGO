@@ -1,5 +1,5 @@
 # RL-PGO
-The official repository for the paper RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization
+The official repository for the paper [RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization](https://sites.google.com/view/rl-pgo/home)
 ## Installation
 
 The RL trainings and testing python script in the RL-PGO folder and was evaluated in a miniconda environment.
