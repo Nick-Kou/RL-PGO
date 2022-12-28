@@ -1,0 +1,3 @@
+[submodule "minisam"]
+	path = minisam
+	url = https://github.com/dongjing3309/minisam.git
